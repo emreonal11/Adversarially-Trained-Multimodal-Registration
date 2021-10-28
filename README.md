@@ -1,8 +1,9 @@
 # Adversarially-Trained-Multimodal-Registration
-Built upon, modified and evaluated the techniques used in the Neural Multimodal Registration project.
+Built upon, modified and evaluated the repository used in Arar et al. 2020 (CVPR2020 Neural Multimodal Adversarial Registration).
+### [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.pdf)
 
 
-Citations: \n
+Citations:
 
 Arar, M., Ginger, Y., Danon, D., Bermano, A., & Cohen-Or, D. (2020). Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation. In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
 
