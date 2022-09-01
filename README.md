@@ -1,5 +1,5 @@
 # Adversarially-Trained-Multimodal-Registration
-Built upon, bug fixed and evaluated the repository used in Arar et al. 2020 (CVPR2020 Neural Multimodal Adversarial Registration).
+Built upon, bug fixed and evaluated the performance of the GAN-based multimodal image-to-image translation method proposed in Arar et al. 2020 (CVPR2020 Neural Multimodal Adversarial Registration).
 ### [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.pdf)
 
 
