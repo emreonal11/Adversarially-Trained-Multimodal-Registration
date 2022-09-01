@@ -1,0 +1,2 @@
+set -ex
+python ./train.py --dataroot ./datasets/overfit --checkpoints_dir ./checkpoints7  --name last --img_height 324 --img_width 576 --preprocess none --load_size 576 --input_nc 3 --output_nc 1 --direction AtoB --lambda_recon 120 --lambda_smooth 200 --lr 0.0003 --num_threads 4 --gpu_ids 0,1 --batch_size 8 --display_freq 256  --stn_type unet --stn_bilateral_alpha 1 --init_type normal --netG resnet_6blocks
